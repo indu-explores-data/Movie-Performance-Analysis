@@ -85,7 +85,7 @@ Fantasy, Action, and Adventure genres bring in the highest average global earnin
    - **Fantasy**, **Adventure**, and **Action** lead in revenue (up to **$200M USD** on average).
    - **Comedy** and **Horror** films are shorter (~90 minutes); **Adventure** and **Fantasy** are longer (~130+ minutes).
 - **IMDb Ratings**: Follow a bell-shaped curve with a peak around **6.5**.
-- **Director Count Distribution**: Fits a **Poisson distribution** — most directors have small filmographies.
+- **Director Count Distribution**: Fits a **Poisson distribution** - most directors have small filmographies.
 
 ---
 
