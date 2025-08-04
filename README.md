@@ -44,8 +44,7 @@ Majority of films range between 85 and 115 minutes.
 ### 🎬 Director Performance: Top 10 by Average Gross
 Directors like **Christopher Nolan** and **James Cameron** lead in per-film revenue, often exceeding **500M USD**.
 
-![Distribution of Worldwide Gross for Top 10 Directors by Average Gross](images/distribution_top10_directors_avg_gross.png)
-
+![Distribution of Worldwide Gross for Top 10 Directors](images/Distribution%20of%20Worldwide%20Gross%20for%20Top%2010%20Directors%20by%20Average%20Gross.png)
 
 
 ---
