@@ -15,8 +15,6 @@ This project performs an in-depth exploratory data analysis (EDA) on a curated d
 ---
 
 
----
-
 ## 📊 Visual Insights
 
 ### 🎯 Approval Index vs Worldwide Gross
