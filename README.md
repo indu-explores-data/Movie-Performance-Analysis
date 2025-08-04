@@ -91,14 +91,16 @@ Fantasy, Action, and Adventure genres bring in the highest average global earnin
 
 ## 🧰 Tools & Technologies
 
-| Tool           | Purpose                        |
-|----------------|--------------------------------|
-| `Python`       | Core scripting and analysis     |
-| `Pandas`       | Data cleaning, wrangling        |
-| `NumPy`        | Numeric operations              |
-| `Matplotlib`   | Basic plotting                  |
-| `Seaborn`      | Advanced statistical visualization |
-| `Jupyter Lab`  | Interactive notebook interface  |
+| Tool/Library        | Purpose                                                       |
+| ------------------- | ------------------------------------------------------------- |
+| **Python**          | Core scripting and data analysis                              |
+| **Pandas**          | Data cleaning, transformation, and wrangling                  |
+| **NumPy**           | Numerical operations and array handling                       |
+| **Matplotlib**      | Basic data visualization                                      |
+| **Seaborn**         | Statistical plotting and aesthetic visualizations             |
+| **SciPy (Poisson)** | Statistical modeling (used to model director productivity)    |
+| **Jupyter Lab**     | Interactive notebook interface for analysis and visualization |
+
 
 ---
 
