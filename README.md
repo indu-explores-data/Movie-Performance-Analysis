@@ -19,24 +19,28 @@ This project performs an in-depth exploratory data analysis (EDA) on a curated d
 
 ### 🎯 Approval Index vs Worldwide Gross
 Shows a strong positive correlation between IMDb ratings (approval) and global revenue.
+
 ![Approval Index vs Worldwide Gross](images/Approval%20Index%20vs%20Worldwide%20Gross.png)
 
 ---
 
 ### ⏱️ Runtime by Genre
 Highlights how different genres vary in movie duration.
+
 ![Box Plot of Runtime by Genre](images/Box%20Plot%20of%20Runtime%20by%20Genre.png)
 
 ---
 
 ### ⭐ IMDb Rating Distribution
 IMDb ratings mostly fall between 5.5–7.5, with a central tendency near 6.5.
+
 ![Distribution of IMDb Ratings](images/Distribution%20of%20IMDb%20Ratings.png)
 
 ---
 
 ### ⌛ Runtime Distribution
 Majority of films range between 85 and 115 minutes.
+
 ![Distribution of Movie Runtime](images/Distribution%20of%20Movie%20Runtime.png)
 
 ---
@@ -50,18 +54,21 @@ Directors like **Christopher Nolan** and **James Cameron** lead in per-film reve
 ---
 
 ### 📈 Movies per Director
+
 Most directors made 1–3 films; very few directed more than 10.
 ![Histogram of Movies per Director](images/Histogram%20of%20Movies%20per%20Director.png)
 
 ---
 
 ### 🎭 Most Common Genres
+
 Drama, Comedy, Action, and Thriller dominate genre frequency.
 ![Top 10 Most Common Genres](images/Top%2010%20Most%20Common%20Genres.png)
 
 ---
 
 ### 🌍 Global Gross by Genre
+
 Fantasy, Action, and Adventure genres bring in the highest average global earnings.
 ![Worldwide Gross by Main Genre](images/Worldwide%20Gross%20by%20Main%20Genre.png)
 
