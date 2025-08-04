@@ -1,4 +1,4 @@
-# 🎬 Movie Data Analysis — Uncovering Patterns in Global Cinema
+# 🎬 Movie Data Analysis - Uncovering Patterns in Global Cinema
 
 This project performs an in-depth exploratory data analysis (EDA) on a curated dataset of movies to derive insights into trends related to runtime, genre, revenue, director impact, and IMDb ratings. Using Python-based data visualization and analysis, the goal is to answer: *What makes a movie successful?* and *Which factors influence a film’s critical and commercial performance?*
 
@@ -101,6 +101,17 @@ Fantasy, Action, and Adventure genres bring in the highest average global earnin
 | `Jupyter Lab`  | Interactive notebook interface  |
 
 ---
+
+## 📬 Let's Connect
+
+- **LinkedIn:** [Indu R](https://www.linkedin.com/in/indu-r-3a3767170/)
+
+- ---
+
+## 🙌 Feedback & Support
+
+If you found this project helpful or interesting, feel free to ⭐ star the repository and share your thoughts. Contributions and suggestions are always welcome!
+
 
 
 
