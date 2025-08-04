@@ -56,6 +56,7 @@ Directors like **Christopher Nolan** and **James Cameron** lead in per-film reve
 ### 📈 Movies per Director
 
 Most directors made 1–3 films; very few directed more than 10.
+
 ![Histogram of Movies per Director](images/Histogram%20of%20Movies%20per%20Director.png)
 
 ---
@@ -63,6 +64,7 @@ Most directors made 1–3 films; very few directed more than 10.
 ### 🎭 Most Common Genres
 
 Drama, Comedy, Action, and Thriller dominate genre frequency.
+
 ![Top 10 Most Common Genres](images/Top%2010%20Most%20Common%20Genres.png)
 
 ---
@@ -70,6 +72,7 @@ Drama, Comedy, Action, and Thriller dominate genre frequency.
 ### 🌍 Global Gross by Genre
 
 Fantasy, Action, and Adventure genres bring in the highest average global earnings.
+
 ![Worldwide Gross by Main Genre](images/Worldwide%20Gross%20by%20Main%20Genre.png)
 
 ---
