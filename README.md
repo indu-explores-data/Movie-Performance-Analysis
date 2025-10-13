@@ -103,7 +103,7 @@ Fantasy, Action, and Adventure genres bring in the highest average global earnin
 - numpy  
 - matplotlib / seaborn  
 - scipy / statsmodels  
-- Jupyter Notebook / Jupyter Lab  
+- Jupyter Notebook 
 
 ---
 
