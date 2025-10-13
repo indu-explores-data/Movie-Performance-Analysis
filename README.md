@@ -115,27 +115,27 @@ Follow these steps to set up the project locally and run the analysis:
 ```bash
 git clone https://github.com/indu-explores-data/Movie-Data-Analysis.git
 ```
-2. Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 ```
 cd Movie-Data-Analysis
 ```
-3. Create and Activate a Virtual Environment (Recommended):
+3. **Create and Activate a Virtual Environment (Recommended):**
 ```
 python -m venv venv
 ```
-Windows:
+**Windows:**
 ```
 venv\Scripts\activate
 ```
-Mac/Linux:
+**Mac/Linux:**
 ```
 source venv/bin/activate
 ```
-4. Install Required Libraries:
+4. **Install Required Libraries:**
 ```
 pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
 ```
-5. Launch Jupyter Notebook:
+5. **Launch Jupyter Notebook:**
 ```
 jupyter notebook
 ```
@@ -143,7 +143,7 @@ jupyter notebook
 
 ---
 
-▶️ Usage / How to Run
+▶️ **Usage / How to Run**
 
 - Open Movie_Data_Analysis.ipynb in Jupyter Notebook.
 - Run all cells sequentially to reproduce the visualizations and insights.
