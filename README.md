@@ -1,4 +1,4 @@
-# 🎬 Movie Data Analysis — Patterns in Global Cinema
+# 🎬 Movie Performance Analysis — Patterns in Global Cinema
 
 This project performs an in-depth exploratory data analysis (EDA) on a curated dataset of movies to uncover patterns related to **runtime, genre, revenue, director impact, and IMDb ratings**. Using Python-based data visualization and analysis, the goal is to answer: *What makes a movie successful?* and *Which factors influence a film’s critical and commercial performance?* Insights from this analysis can help filmmakers, producers, and data enthusiasts understand key success factors in global cinema.
 
