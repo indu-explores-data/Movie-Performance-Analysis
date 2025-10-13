@@ -151,7 +151,7 @@ jupyter notebook
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 **Connect with Me**
 
 For feedback, collaboration opportunities, or related queries:
 
