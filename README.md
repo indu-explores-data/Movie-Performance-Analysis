@@ -112,33 +112,33 @@ Fantasy, Action, and Adventure genres bring in the highest average global earnin
 Follow these steps to set up the project locally and run the analysis:
 
 1. **Clone the Repository:**  
-```bash
-git clone https://github.com/indu-explores-data/Movie-Data-Analysis.git
-```
+   ```bash
+   git clone https://github.com/indu-explores-data/Movie-Data-Analysis.git
+   ```
 2. **Navigate to the Project Directory:**
-```
-cd Movie-Data-Analysis
-```
+   ```
+   cd Movie-Data-Analysis
+   ```
 3. **Create and Activate a Virtual Environment (Recommended):**
-```
-python -m venv venv
-```
-**Windows:**
-```
-venv\Scripts\activate
-```
-**Mac/Linux:**
-```
-source venv/bin/activate
-```
+   ```
+   python -m venv venv
+   ```
+   **Windows:**
+   ```
+   venv\Scripts\activate
+   ```
+   **Mac/Linux:**
+   ```
+   source venv/bin/activate
+   ```
 4. **Install Required Libraries:**
-```
-pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
-```
+   ```
+   pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
+   ```
 5. **Launch Jupyter Notebook:**
-```
-jupyter notebook
-```
+   ```
+   jupyter notebook
+   ```
 6. Open Movie_Data_Analysis.ipynb and run all cells to reproduce the analysis.
 
 ---
@@ -151,9 +151,9 @@ jupyter notebook
 
 ---
 
-## 🔗 **Connect with Me**
+## 🔗 Connect with Me
 
-For feedback, collaboration opportunities, or related queries:
+Let’s connect on LinkedIn for project discussions or data-driven collaborations:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
@@ -161,4 +161,4 @@ For feedback, collaboration opportunities, or related queries:
 
 ## 🙌 Feedback & Support
 
-If you found this project helpful or interesting, feel free to ⭐ star the repository and share your thoughts. Contributions and suggestions are always welcome!
+If you found this project helpful, please ⭐ star the repository and share your thoughts. Suggestions and contributions are always welcome!
