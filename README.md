@@ -111,39 +111,39 @@ Fantasy, Action, and Adventure genres bring in the highest average global earnin
 
 Follow these steps to set up the project locally and run the analysis:
 
-1. **Clone the Repository:**  
+1. Clone the Repository: 
    ```bash
    git clone https://github.com/indu-explores-data/Movie-Data-Analysis.git
    ```
-2. **Navigate to the Project Directory:**
+2. Navigate to the Project Directory:
    ```
    cd Movie-Data-Analysis
    ```
-3. **Create and Activate a Virtual Environment (Recommended):**
+3. Create and Activate a Virtual Environment (Recommended):
    ```
    python -m venv venv
    ```
-   **Windows:**
+   Windows:
    ```
    venv\Scripts\activate
    ```
-   **Mac/Linux:**
+   Mac/Linux:
    ```
    source venv/bin/activate
    ```
-4. **Install Required Libraries:**
+4. Install Required Libraries:
    ```
    pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
    ```
-5. **Launch Jupyter Notebook:**
+5. Launch Jupyter Notebook:
    ```
    jupyter notebook
    ```
-6. Open Movie_Data_Analysis.ipynb and run all cells to reproduce the analysis.
+6. Open **Movie_Data_Analysis.ipynb** and run all cells to reproduce the analysis.
 
 ---
 
-▶️ **Usage / How to Run**
+## ▶️ Usage / How to Run
 
 - Open Movie_Data_Analysis.ipynb in Jupyter Notebook.
 - Run all cells sequentially to reproduce the visualizations and insights.
