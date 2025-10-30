@@ -16,11 +16,13 @@ This project performs an in-depth exploratory data analysis (EDA) on a curated d
 
 ## 📌 Key Methods
 
-- **Descriptive Statistics**: Summarize central tendencies, spread, and distributions.
-- **Correlation Analysis**: Examine relationships between IMDb ratings, runtime, and revenue.
-- **Box Plots & Histograms**: Explore distribution and variation across genres, directors, and ratings.
-- **Poisson Modeling**: Analyze director productivity and frequency of movie releases.
-
+- **Descriptive Statistics** — Summarized key measures such as mean, median, and spread for revenue, runtime, and ratings.  
+- **Correlation Analysis** — Measured relationships between IMDb ratings, runtime, and worldwide gross using correlation coefficients.  
+- **Data Visualization (Box, Histogram, Scatter)** — Explored distributions, outliers, and variable relationships visually.  
+- **Grouping and Aggregation (Genre/Director Analysis)** — Compared performance metrics by genre and director to identify top contributors.  
+- **Poisson Modeling (Director Productivity)** — Modeled the frequency of movie releases per director to understand productivity trends.  
+- **Trend Analysis (Over Time)** — Examined changes in runtime, ratings, and revenue across different years.
+  
 ---
 
 ## 📷 Visualizations
@@ -113,11 +115,11 @@ Follow these steps to set up the project locally and run the analysis:
 
 **1. Clone the Repository:** 
    ```bash
-   git clone https://github.com/indu-explores-data/Movie-Data-Analysis.git
+   git clone https://github.com/indu-explores-data/Movie-Performance-Analysis.git
    ```
 **2. Navigate to the Project Directory:**
    ```
-   cd Movie-Data-Analysis
+   cd Movie-Performance-Analysis
    ```
 **3. Create and Activate a Virtual Environment (Recommended):**
    ```
@@ -139,13 +141,13 @@ Follow these steps to set up the project locally and run the analysis:
    ```
    jupyter notebook
    ```
-**6. Open `Movie_Data_Analysis.ipynb` and run all cells to reproduce the analysis.**
+**6. Open `Movie Performance Analysis.ipynb` and run all cells to reproduce the analysis.**
 
 ---
 
 ## ▶️ Usage / How to Run
 
-- Open Movie_Data_Analysis.ipynb in Jupyter Notebook.
+- Open Movie Performance Analysis.ipynb in Jupyter Notebook.
 - Run all cells sequentially to reproduce the visualizations and insights.
 - Key insights can be found in the final sections, and visualizations are saved in the images/ folder.
 
